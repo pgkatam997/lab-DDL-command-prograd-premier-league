@@ -4,7 +4,7 @@
 
 
 
-![sql1](https://user-images.githubusercontent.com/61002120/76393202-13b50d00-6399-11ea-9bb2-ebf9fc6cbd6b.JPG)
+![sql1](https://user-images.githubusercontent.com/61002120/76393305-4c54e680-6399-11ea-806b-267a5ff76ee3.JPG)
 
 
 ![sql](https://user-images.githubusercontent.com/61002120/76393041-bcaf3800-6398-11ea-9f16-5c1c844c8b10.jpg)
