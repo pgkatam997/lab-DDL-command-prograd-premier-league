@@ -4,11 +4,10 @@
 
 
 
-
 ![sql1](https://user-images.githubusercontent.com/61002120/76392731-21b65e00-6398-11ea-8b7e-82f2741c4367.JPG)
 
 
-![2](https://user-images.githubusercontent.com/58466121/76390689-dbf79680-6393-11ea-80e8-0f13adeceda3.png)
+![sql2](https://user-images.githubusercontent.com/61002120/76392894-7a85f680-6398-11ea-8e71-d672d4cac549.JPG)
 
 
 ## STEPS TO BE FOLLOWED
