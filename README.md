@@ -7,7 +7,7 @@
 ![sql1](https://user-images.githubusercontent.com/61002120/76392731-21b65e00-6398-11ea-8b7e-82f2741c4367.JPG)
 
 
-![sql2](https://user-images.githubusercontent.com/61002120/76392894-7a85f680-6398-11ea-8e71-d672d4cac549.JPG)
+![sql](https://user-images.githubusercontent.com/61002120/76393041-bcaf3800-6398-11ea-9f16-5c1c844c8b10.jpg)
 
 
 ## STEPS TO BE FOLLOWED
