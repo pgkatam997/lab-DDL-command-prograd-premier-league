@@ -5,12 +5,9 @@
 
 
 
-![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
-
-
 ![sql](https://user-images.githubusercontent.com/61002120/76393041-bcaf3800-6398-11ea-9f16-5c1c844c8b10.jpg)
 
-
+![sql](https://user-images.githubusercontent.com/58466121/76389844-3c85d400-6392-11ea-875f-8cd9676219b2.JPG)
 ## STEPS TO BE FOLLOWED
 
 
