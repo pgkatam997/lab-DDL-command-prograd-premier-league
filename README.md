@@ -40,7 +40,7 @@ Oracle 11g Express edition and Oracle SQL Developer
 
 ![sql](https://i1.faceprep.in/ProGrad/sql-ddl-lab2.png)
 
-![sql](https://i1.faceprep.in/ProGrad/sql-ddl-lab-instructions.png)
+![sql](https://i1.faceprep.in/ProGrad/sql-ddl-lab1-instructions.png)
 
 
 ## PROGRESSION 1:
