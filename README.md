@@ -63,7 +63,7 @@ Oracle 11g Express edition and Oracle SQL Developer
 16. Create extradelivery table
 17. Alter column name id
 18. Alter column name city
-19. Alter column name caption
+19. Alter column name captain
 20. Delete column status
 21. Drop table delivery
 22. Drop table game
